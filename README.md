@@ -10,4 +10,4 @@ Therefore, there is need to consider how to support modern audiovisual formats i
 
 ## Resources
 
-* [Charter](https://w3c.github.io/avmedia-formats-cg/charter.html)
+* [Charter](https://w3c-cg.github.io/avmedia-formats-cg/charter.html)
